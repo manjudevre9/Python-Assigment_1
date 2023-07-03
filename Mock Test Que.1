@@ -1,0 +1,21 @@
+class HelloWorld {
+    static void checkNumber(int num){
+        if(num>0)
+            System.out.println(num+"is PSITIVE NUMBER.");
+        else if(num<0)
+            System.out.println(num+"is NIGATIVE NUMBER.");
+        else
+            System.out.println(num+"is a ZERO.");
+    }
+    public static void main(String args[]){
+        int no1=34;
+        int no2=65;
+        int no3=-45;
+        int no4=0;
+        
+        checkNumber(no1);
+        checkNumber(no2);
+        checkNumber(no3);
+        checkNumber(no4);
+    }
+} 
