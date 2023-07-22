@@ -1,0 +1,46 @@
+## Que.1, Ans
+Statistic : Statistic is a branch of applied mathematics that involves the collection, description, analysis,&
+            inference of conclusions from quantitative data.
+			
+			
+			## Que 2. Ans
+Types of Statistic : 
+1. Descriptive Statistic : which is describes the properties of sample & population data.
+ex. 
+Mean : Add up all the scores & divide by the number of scores.
+Mean=(85+90+75+92+88+79+83+95+87+91+78+86+89+94+82+80+84+93+88+81)/20=1770/20=88.5
+
+2. Inferential Statistic : which uses those properties to test hypotheses & draw conclusion.
+ex. If we met a group of people - men & women - & the women earned more than the men,we could infer that women,
+    generally,earned more than men.
+
+
+## Que.3 Ans
+Types of Data in Statistic : 
+1. Quantitative Data : Data is depicted in numerical terms.Can be shown in numbers & variables like 
+   ratio,percentage,& more.
+ex.Height in feet,age in years & weight in pounds.    
+Types of Quantitative Data : 1. Nominal Data
+                             2. Ordinal Data
+
+2. Qualitative Data : Data is descriptive,expressed in terms of feelings rather than numerical values.
+ex. The cake is orange,blue,& black in color.
+Types of Qualitative Data : 1. Discrete Data
+
+
+
+## Que.4. Ans
+1. Grading in exam:A+,A,B+,B,C+ = Qualitative Data
+2. Colour of mangoes: yellow,green ,orange,red= Qualitative Data
+3. Height data of class: [178.9,79,179.5]=  Quantitative Data
+4. Number of mangoes exported by a farm: [500,600,478,672]=Quantitative Data
+
+
+## Que. 5 Ans
+level measurment : The process of categorizing data based on the characteristics & properties of the data.It is 
+                   important in statistic  because it helps determine the appropriate statistical methods & 
+                   tests that can be used to analyze the data.
+4 of level measurment : 1. Nominal: The data can only be categorized.
+                           ex.City of birth,Gender. 
+                       
+                        2. Ordinal: The data can be categorized & ranked.
